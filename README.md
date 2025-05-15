@@ -6,7 +6,7 @@ I am a data analyst with experience in Python, SQL, and data visualization. I en
 - 🔭 Currently focused on advancing my skills in data analysis and visualization
 - 🌱 Exploring advanced techniques in machine learning and big data
 - 💬 Feel free to reach out for collaboration or knowledge sharing
-- 📫 Contact me: [Email](pranay.pawaar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pawar-pranay/)
+- 📫 Contact me: [Email](mailto:pranay.pawaar@gmail.com) | [LinkedIn](https://www.linkedin.com/in/pawar-pranay/)
 
 ## Skills & Tools
 - **Programming Languages:** Python (Pandas, NumPy, Matplotlib, Seaborn), SQL
